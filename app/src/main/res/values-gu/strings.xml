@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ક્રિમિનલ ઇન્સ્ટન્ટ</string>
+    <string name="crime_title_hint">
+અપરાધ માટે શીર્ષક દાખલ કરો !!હાલો!!</string>
+    <string name="crime_title_label">શીર્ષક</string>
+    <string name="crime_details_label">વિસ્તારપૂર્વક</string>
+    <string name="crime_solved_label">ઉકેલવા</string>
+    <string name="date_picker_title">
+અપરાધની તારીખ:</string>
+    <string name="new_crime">નવા ક્રાઇમ</string>
+    <string name="show_subtitle">ઉપશીર્ષક બતાવો</string>
+    <string name="hide_subtitle">ઉપશીર્ષક છુપાવો</string>
+    <string name="subtitle_format">%1$d ગુનાઓ</string>
+    <string name="crime_suspect_text">શંકા પસંદ કરો</string>
+    <string name="crime_report_text">ક્રાઇમ રિપોર્ટ મોકલો</string>
+    <string name="crime_report">%1$s!
+આ ગુનો પર શોધ કરવામાં આવી હતી %2$s. %3$s, and %4$s
+</string>
+    <string name="crime_report_solved">
+કેસ ઉકેલી છે</string>
+    <string name="crime_report_unsolved">કેસ ઉકેલી નથી</string>
+    <string name="crime_report_no_suspect">ત્યાં કોઈ શંકા નથી</string>
+    <string name="crime_report_suspect">
+શંકા છે %s.</string>
+    <string name="crime_report_subject">ક્રિમિનલ ઇન્સ્ટન્ટ ક્રાઇમ રિપોર્ટ</string>
+    <string name="send_report">દ્વારા ગુનો રિપોર્ટ મોકલો</string>
+</resources>
